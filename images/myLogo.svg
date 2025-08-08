@@ -24,5 +24,6 @@
 
   <!-- Bolder and wider "Audigo" text -->
   <text x="130" y="85" font-size="60" font-weight="700" font-family=""
-        fill="rgba(0, 142, 145, 1)" filter="url(#shadow)">Audigo</text>
+        fill="rgba(0, 142, 145, 1)" filter="url(#shadow)">Kmusix</text>
 </svg>
+
